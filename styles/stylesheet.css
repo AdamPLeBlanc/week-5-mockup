@@ -64,7 +64,7 @@ section nav a:link, section nav a:visited{
     font-weight: bold;
 }
 
-section h1{
+article h2{
     float:left;
     width: 82%;
     margin: 1% 1% 0 0;
@@ -75,7 +75,7 @@ section h1{
     background-color: #D6E449
 }
 
-article{
+article aside{
     float:right;
     display:block;
     width: 82%;
@@ -85,12 +85,12 @@ article{
     /*max-height: 30em;*/
 }
 
-section.filler{
+div.filler{
     float:left;
     width:15%;
     margin: 1%;
     background-color: #48BBE1;
-    height: 19em;
+    height: 20em;
     /*max-height: 10em;*/
 }
 
